@@ -1,12 +1,21 @@
-var length = parseInt(prompt("Enter the length in centimeters"));
-if (isNaN(length)){
-  alert("enter a real number");
+var triangle= new Array(3);
+
+var dimmensions=0;
+
+for (dimmensions=0; dimmensions<3; dimmensions++)
+{
+triangle[dimmensions]=(parseInt(prompt('Enter the dimmensions in centimeters!',' ')));
 }
-var width = parseInt(prompt("Enter the width in centimeters"));
-if (isNaN(width)){
-  alert("enter a real number");
+
+if(triangle[0] === triangle[1] && triangle[0] === triangle[2] && triangle[1] === triangle[2]){
+alert("This triangle is Equilateral");
 }
-var height = parseInt(prompt("Enter the height C in centimeters"));
-if (isNaN(height)){
-  alert("enter a real number");
+else if(triangle[0] === triangle[1] || triangle[0]=== triangle[2] || triangle[1] === triangle[2]){
+alert("This triangle is Isosceles");
+}
+else if((triangle[0] + triangle[1]) <= triangle[2] || (triangle[0] + triangle[2]) <= triangle[1] || (triangle[1] + triangle[2]) <= triangle[0]) {
+alert("This is not a Triangle");
+}
+else{
+alert("This is a Scalene triangle");
 }
