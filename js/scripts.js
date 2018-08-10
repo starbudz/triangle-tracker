@@ -19,4 +19,3 @@ else if(triangle[0] !== triangle[1] && triangle[0] !== triangle[2] && triangle[1
 alert("This is a Scalene triangle");
 }
 }
-triangleTracker();
