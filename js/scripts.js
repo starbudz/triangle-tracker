@@ -1,12 +1,12 @@
-var sideA = parseInt(prompt("Enter the length of side A in centimeters"));
-if (isNaN(sideA)){
+var length = parseInt(prompt("Enter the length in centimeters"));
+if (isNaN(length)){
   alert("enter a real number");
 }
-var sideB = parseInt(prompt("Enter the length of side B in centimeters"));
-if (isNaN(sideB)){
+var width = parseInt(prompt("Enter the width in centimeters"));
+if (isNaN(width)){
   alert("enter a real number");
 }
-var sideC = parseInt(prompt("Enter the length of side C in centimeters"));
-if (isNaN(sideC)){
+var height = parseInt(prompt("Enter the height C in centimeters"));
+if (isNaN(height)){
   alert("enter a real number");
 }
