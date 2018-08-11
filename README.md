@@ -22,5 +22,7 @@ The main program run on the site is made using JavaScript.
 Written using Atom.
 ## Support and contact details
 In case of any queries or support contact at my private email victorngigi@gmail.com
+## Live Site
+starbudz.github.io/triangle-tracker
 ### License
 Copyright (c) 2018 **VICTOR KINYANJUI**
