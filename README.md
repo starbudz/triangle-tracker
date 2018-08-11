@@ -2,7 +2,13 @@
 #### MADE FOR THE PURPOSE OF IDENTIFYING THE TYPE OF TRIANGLE FROM IT'S DIMMENSIONS. 10/08/2018
 #### By **VICTOR KINYANJUI**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+MADE FOR THE PURPOSE OF IDENTIFYING THE TYPE OF TRIANGLE FROM IT'S DIMMENSIONS.
+The main program calls the function "triangleTracker" when the "TRACK THE TRIANGLES" button is pressed.
+The function first creates an new array named "triangle" with a maximum of three elements.
+The program then creates a variable named "dimmensions".
+The program the gets user input via a prompt saving the input to the variable dimmensions.
+The program repeats the previous action via for loop three times thus filling the array triangle.
+
 ## Setup/Installation Requirements
 * Web browser with JavaScript, HTML5 and CSS3.
 ## Known Bugs
