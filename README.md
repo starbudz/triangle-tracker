@@ -3,13 +3,14 @@
 #### By **VICTOR KINYANJUI**
 ## Description
 MADE FOR THE PURPOSE OF IDENTIFYING THE TYPE OF TRIANGLE FROM IT'S DIMMENSIONS.
-The main program calls the function "triangleTracker" when the "TRACK THE TRIANGLES" button is pressed.
-The function first creates an new array named "triangle" with a maximum of three elements.
-The program then creates a variable named "dimmensions".
-The program the gets user input via a prompt saving the input to the variable dimmensions.
-The program repeats the previous action via for loop three times thus filling the array triangle.
-The program then converts the user input into floats using the parseFloat method.
-The program then uses if else statements to determine the type of traingle.
+* The main program calls the function "triangleTracker" when the "TRACK THE TRIANGLES" button is pressed.
+* The function first creates a new array named "triangle" with a maximum of three elements.
+* The program then creates a variable named "dimmensions".
+* The program the gets user input via a prompt saving the input to the variable dimmensions.
+* The program saves the value of the variable "dimmensions" to the array "triangle"
+* The program repeats the previous action via for loop three times thus filling the array triangle.
+* The program then converts the user input into floats using the parseFloat method.
+* The program then uses if else statements to determine the type of traingle.
 
 ## Setup/Installation Requirements
 * Web browser with JavaScript, HTML5 and CSS3.
