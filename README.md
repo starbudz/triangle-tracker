@@ -18,7 +18,7 @@ MADE FOR THE PURPOSE OF IDENTIFYING THE TYPE OF TRIANGLE FROM IT'S DIMMENSIONS.
 User input of types other than numbers is still accepted and parsed.
 ## Technologies Used
 The main site is made using HTML5 and CSS3 is used for styling.
-The main program run on the site is made using JavaScript.
+The main program running on the site is made using JavaScript.
 Written using Atom.
 ## Support and contact details
 In case of any queries or support, reach me at my private email victorngigi@gmail.com
