@@ -21,7 +21,7 @@ The main site is made using HTML5 and CSS3 is used for styling.
 The main program run on the site is made using JavaScript.
 Written using Atom.
 ## Support and contact details
-In case of any queries or support contact at my private email victorngigi@gmail.com
+In case of any queries or support, reach me at my private email victorngigi@gmail.com
 ## Live Site
 https://starbudz.github.io/triangle-tracker
 ### License
