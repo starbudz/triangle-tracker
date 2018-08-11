@@ -11,18 +11,24 @@ MADE FOR THE PURPOSE OF IDENTIFYING THE TYPE OF TRIANGLE FROM IT'S DIMMENSIONS.
 * The program repeats the previous action via for loop three times thus filling the array triangle.
 * The program then converts the user input into floats using the parseFloat method.
 * The program then uses if else statements to determine the type of traingle.
-
+## The main program outputs
+* Equilateral: All sides are equal.
+* Isosceles: Exactly 2 sides are equal.
+* Scalene: No sides are equal.
+* NOT a triangle: The sum of the lengths of any two sides of a triangle is less than or equal to the length of the third side.
+ 
 ## Setup/Installation Requirements
 * Web browser with JavaScript, HTML5 and CSS3.
 ## Known Bugs
-User input of types other than numbers is still accepted and parsed.
+* User input of types other than numbers is still accepted and parsed.
 ## Technologies Used
-The main site is made using HTML5 and CSS3 is used for styling.
-The main program running on the site is made using JavaScript.
-Written using Atom.
+* The main site is made using HTML5
+* CSS3 is used for styling.
+* The main program running on the site is made using JavaScript.
+* Written using Atom.
 ## Support and contact details
-In case of any queries or support, reach me at my private email victorngigi@gmail.com
+* In case of any queries or support, reach me at my private email victorngigi@gmail.com
 ## Live Site
-https://starbudz.github.io/triangle-tracker
+* https://starbudz.github.io/triangle-tracker
 ### License
-Copyright (c) 2018 **VICTOR KINYANJUI**
+* Copyright (c) 2018 **VICTOR KINYANJUI**
