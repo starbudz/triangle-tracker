@@ -1,52 +1,58 @@
-html{
+html {
   background-color: #0C0C0C;
 }
-h1{
+
+h1 {
   color: grey;
   font-family: sans-serif;
   text-align: center;
   font-weight: bolder;
 }
 
-.title{
+.title {
   background-image: url(../images/background.jpg);
   height: 300px;
   border: 5px solid black;
   padding: 5px;
   margin: 5px;
 }
-p{
-  color:grey;
+
+p {
+  color: grey;
   font-family: sans-serif;
   text-align: center;
   font-weight: bold;
 }
+
 .button {
-    font-family: sans-serif;
-    float: right;
-    background-color:#191919; /* Green */
-    font-size: 30px;
-    height: 150px;
-    border: 5px solid black;
-    padding: 5px;
-    margin: 5px;
-    width: 300px;
+  font-family: sans-serif;
+  float: right;
+  background-color: #191919;
+  /* Green */
+  font-size: 30px;
+  height: 150px;
+  border: 5px solid black;
+  padding: 5px;
+  margin: 5px;
+  width: 300px;
 }
-h2.button{
+
+h2.button {
   text-align: right;
   color: grey;
-
 }
-h2{
+
+h2 {
   float: left;
-  text-align: left;;
+  text-align: left;
+  ;
   color: grey;
   font-weight: bold;
   font-family: sans-serif;
 }
-img{
-  float: left;
-  width: 300px;
-  height: 150px;
 
+img {
+  float: left;
+  width: 250px;
+  height: 250px;
 }
